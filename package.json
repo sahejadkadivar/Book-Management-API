@@ -1,0 +1,19 @@
+{
+  "name": "book-management-api",
+  "version": "1.0.0",
+  "description": "This is a simple CRUD project in Node.js using MySQL that demonstrates how to set up a basic application for managing records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahejad Kadivar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
